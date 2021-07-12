@@ -1,8 +1,8 @@
 <h2>Snake Game</h2>
 
-![](https://img.shields.io/github/last-commit/arthurfincham/snake_game)
-![](https://img.shields.io/github/languages/count/arthurfincham/snake_game)
-![](https://img.shields.io/github/languages/code-size/arthurfincham/snake_game)
+![](https://img.shields.io/github/last-commit/arthurfincham/snake)
+![](https://img.shields.io/github/languages/count/arthurfincham/snake)
+![](https://img.shields.io/github/languages/code-size/arthurfincham/snake)
 
 <h3>Description</h3>
 
