@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Invasion";
+  src: url("INVASION2000.TTF");
+}
+
+body {
+  background-color: #e3c480;
+}
+
+.game {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e3c480;
+}
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+  font-family: Invasion;
+  margin: 20px;
+  color: #0d19a2;
+}
+
+#score {
+  text-align: center;
+  font-size: 60px;
+  font-family: Invasion;
+  color: #0d19a2;
+}
