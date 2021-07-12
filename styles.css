@@ -30,3 +30,9 @@ h1 {
   font-family: Invasion;
   color: #0d19a2;
 }
+
+button {
+  padding: 0;
+  border: none;
+  background: none;
+}
